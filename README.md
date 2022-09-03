@@ -2,10 +2,7 @@
 
 #### 游戏安装
 
-```
-链接：https://pan.baidu.com/s/1MnhcIeCslrR0JR0tJN5kbQ?pwd=lxpq 
-提取码：lxpq 
-```
+在<kbd>release</kbd>文件夹中有.apk安装文件及演示视频
 
 #### 开发日志
 
